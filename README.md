@@ -25,8 +25,8 @@ Looking for standoff 2 in youtube? We are a local but premier standoff 2 cheats 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-?? [more blog posts...](https://about.me/harrisonburg)
-
+ [more blog posts...](https://about.me/harrisonburg)
+(https://standoff2-trick.blogspot.com/feeds/posts/default?alt=rss	)
 ---
 
 
